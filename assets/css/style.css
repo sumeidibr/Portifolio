@@ -43,8 +43,8 @@
   --color-secondary: #f4f5f6;
   --color-tertiary: #0d1013;
   --color-gray: #f6f6f6;
-  --color-subtitle: #f9004d;
-  --background-color-1: linear-gradient(145deg, #1e2024, #23272b);
+  --color-subtitle: #6c3c4b;
+  --background-color-1: linear-gradient(145deg, #220e14, #1e282f);
   --background-color-2: #212428;
   --shadow-1: 10px 10px 19px #1c1e22,
         -10px -10px 19px #262a2e;
@@ -55,7 +55,7 @@
   --gradient-red-hover: linear-gradient(145deg, #ff014f, #d11414);
   --color-heading: #ffffff;
   --color-heading-wv: #1e2125;
-  --color-body: #878e99;
+  --color-body: #495458;
   --color-body-white: #3c3e41;
   --color-lightn: #c4cfde;
   --color-midgray: #878787;
